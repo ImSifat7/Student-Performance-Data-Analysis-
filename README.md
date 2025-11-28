@@ -10,6 +10,8 @@ Data preprocessing (handling missing values, outliers, encoding, scaling)
 Feature selection for improved modeling
 
 
+
+
 ✅ Key Features
 
 Data Understanding: Structure inspection, summary statistics, and feature identification.
@@ -17,6 +19,8 @@ EDA:
 
 Histograms, boxplots, and bar charts for univariate analysis.
 Correlation matrix and scatterplots for bivariate analysis.
+
+
 
 
 Data Preprocessing:
@@ -27,10 +31,14 @@ Encoding categorical variables (Label & One-hot encoding).
 Scaling and log transformation for numerical features.
 
 
+
+
 Feature Selection:
 
 Correlation-based filtering.
 Variance thresholding.
+
+
 
 
 
@@ -48,6 +56,8 @@ caret for encoding and feature selection
 
 
 
+
+
 📂 Project Structure
 ├── data/
 │   └── student_data.csv
@@ -56,6 +66,9 @@ caret for encoding and feature selection
 ├── README.md
 └── report/
     └── Student Performance Data Analysis.pdf
+
+
+
 
 
 🚀 How to Run
@@ -71,11 +84,15 @@ Rsource("scripts/analysis.R")Show more lines
 
 
 
+
+
 📊 Results
 
 Cleaned and transformed dataset ready for predictive modeling.
 Visual insights into student performance trends.
 Reduced feature redundancy for better model efficiency.
+
+
 
 
 📜 License
