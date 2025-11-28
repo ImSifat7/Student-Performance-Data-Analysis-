@@ -1,4 +1,6 @@
 Student Performance Data Analysis
+
+
 📌 Overview
 This project demonstrates a complete data science workflow applied to a real-world student performance dataset. The goal is to analyze how academic, demographic, and behavioral factors influence student outcomes. It includes:
 
